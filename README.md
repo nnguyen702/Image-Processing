@@ -1,6 +1,6 @@
 # Image-Processing7.2 Image Processing
 
-Ngoc Nguyen is responsible for this module.
+
 7.2.1 Processing narrative for Image processing
 	In this module, its job is to take the image of the area where the whiteboard presents.
   Only the estimated size of the whiteboard gets into the detection; 
